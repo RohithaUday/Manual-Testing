@@ -1,8 +1,6 @@
-# Manual-Testing
 # 🧪 Manual Testing
 
-This repository showcases my hands-on experience with manual testing,
-including test case design, test scenarios, and defect lifecycle knowledge.
+This repository showcases my hands-on experience with manual testing, including test case design, test scenarios, and defect lifecycle knowledge.
 
 ## 📌 Topics Covered
 - SDLC & STLC
